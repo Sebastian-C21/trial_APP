@@ -16,6 +16,7 @@
             <button> clickear para no sé </button>
             <div>{{ cont }}</div>
             hola mundo
+            xd
         </div>
     </div>
 </template>
